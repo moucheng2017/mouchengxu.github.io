@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Leanring to Pay Attention To Mistakes"
-date: 2020-08-09
+venue: BMVC
+year: 2020
+keyword: attention
 ---
 Mou-Cheng Xu, Neil P. Oxtoby, Daniel C. Alexander, Joseph Jacob
 ---
