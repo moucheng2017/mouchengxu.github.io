@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Site launched"
+title: "Nottingham Summer Project 2017"
 date: 2020-08-09
 ---
 
