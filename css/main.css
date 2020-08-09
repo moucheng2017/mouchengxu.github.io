@@ -81,8 +81,9 @@ ul.posts li {
   color: white;
 }
 
-.bottom_right{
-  position:absolute;
-  bottom:0;
-  right:0;
+.header img {
+  float: right;
+  width: 150px;
+  height: 125px;
+  background: #555;
 }
