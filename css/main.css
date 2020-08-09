@@ -80,3 +80,9 @@ ul.posts li {
   background: #dd4b39;
   color: white;
 }
+
+.bottom_right{
+  position:absolute;
+  bottom:0;
+  right:0;
+}
