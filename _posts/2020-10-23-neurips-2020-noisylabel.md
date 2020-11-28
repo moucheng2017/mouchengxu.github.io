@@ -11,4 +11,4 @@ Venue: 34th Neural Information Processing Systems (NeurIPS), Dec 2020
 
 Acceptance rate: 20.1%
 
-Paper: <a href="https://arxiv.org/pdf/2007.15963.pdf"> camera-ready paper </a>
+Paper: <a href="https://papers.nips.cc/paper/2020/file/b5d17ed2b502da15aa727af0d51508d6-Paper.pdf"> camera-ready paper </a>
