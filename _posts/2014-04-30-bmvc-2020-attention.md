@@ -9,7 +9,7 @@ Mou-Cheng Xu, Neil P. Oxtoby, Daniel C. Alexander, Joseph Jacob
 ---
 Venue: 31th British Machine Vision Conference (BMVC), Sep 2020
 
-Acceptance rate: 29%
+Acceptance rate (poster): 29%
 
 Paper: <a href="https://www.bmvc2020-conference.com/assets/papers/0335.pdf"> camera-ready paper </a>
 
