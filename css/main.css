@@ -36,22 +36,9 @@ a:hover {
     text-decoration: underline;
 }
 
-a.active {
-  background-color: dodgerblue;
-  color: white;
-}
-
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-
-.header-right {
-  float: right;
-}
-
-.header-left {
-  float: left;
 }
 
 p {
