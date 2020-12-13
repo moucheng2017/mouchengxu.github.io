@@ -18,6 +18,8 @@ nav ul li, footer ul li {
 
 nav img{
     float:right;
+    width: 10%;
+    height: auto;
 }
 
 a {
