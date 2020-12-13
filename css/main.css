@@ -17,8 +17,9 @@ nav ul li, footer ul li {
 }
 
 .nav img{
-float:right;
-height: 24px;
+    float:right;
+    height: 24px;
+    width: 24px;
 }
 
 a {
