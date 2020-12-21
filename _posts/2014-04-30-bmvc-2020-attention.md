@@ -14,5 +14,5 @@ Paper: <a href="https://www.bmvc2020-conference.com/assets/papers/0335.pdf"> htt
 
 Code: <a href="https://github.com/moucheng2017/Pay_Attention_To_Mistakes"> https://github.com/moucheng2017/Pay_Attention_To_Mistakes </a>
 
-Talk: <a href="https://www.bmvc2020-conference.com/conference/papers/paper_0335.html"> virtual poster </a>
+Talk: <a href="https://www.bmvc2020-conference.com/conference/papers/paper_0335.html"> https://www.bmvc2020-conference.com/conference/papers/paper_0335.html </a>
 
