@@ -5,7 +5,7 @@ body {
 
 img {
   float: left;
-  align-items:center;
+  vertical-align: middle;
 }
 
 /* before */
