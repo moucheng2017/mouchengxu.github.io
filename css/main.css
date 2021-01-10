@@ -3,6 +3,9 @@ body {
     width: 70%;
 }
 
+img {
+  float: right;
+}
 
 /* before */
 nav ul, footer ul {
