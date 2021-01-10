@@ -5,7 +5,7 @@ body {
 
 img {
   float: left;
-  vertical-align: top;
+  vertical-align: text-top;
 }
 
 /* before */
