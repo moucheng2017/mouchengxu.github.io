@@ -15,5 +15,6 @@ Paper: <a href="https://www.bmvc2020-conference.com/assets/papers/0335.pdf"> htt
 
 Code: <a href="https://github.com/moucheng2017/Pay_Attention_To_Mistakes"> https://github.com/moucheng2017/Pay_Attention_To_Mistakes </a>
 
-Talk: <a href="https://www.bmvc2020-conference.com/conference/papers/paper_0335.html"> https://www.bmvc2020-conference.com/conference/papers/paper_0335.html </a>
+<!-- Talk: <a href="https://www.bmvc2020-conference.com/conference/papers/paper_0335.html"> https://www.bmvc2020-conference.com/conference/papers/paper_0335.html </a> -->
 
+One sentence summary: We propose a novel visual attention mechanism to learn to increase false positive detection and reverse false negative detection, in order to address over false negative detection caused by class imbalance biased towards background in segmentation.
