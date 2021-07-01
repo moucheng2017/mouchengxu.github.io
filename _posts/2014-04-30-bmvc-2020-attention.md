@@ -19,6 +19,5 @@ Code: <a href="https://github.com/moucheng2017/Pay_Attention_To_Mistakes"> https
 
 We propose a novel visual attention mechanism to learn to increase false positive detection and reverse false negative detection, in order to address over detection of false negative caused by the class imbalance biasing towards background in segmentation.
 
-<ul>
-<img src="gsk.jpeg">
-</ul>
+<img src="gsk.jpeg" width="200" height="80">
+
