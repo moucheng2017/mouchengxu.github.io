@@ -8,8 +8,7 @@ keyword: attention
 Mou-Cheng Xu, Neil P. Oxtoby, Daniel C. Alexander, Joseph Jacob
 ---
 <p>
-Venue: 31th British Machine Vision Conference (BMVC), Sep 2020
-Acceptance rate (poster): 29%
+31th British Machine Vision Conference (BMVC), Sep 2020. Acceptance rate (poster): 29%
 </p>
 
 <p>
