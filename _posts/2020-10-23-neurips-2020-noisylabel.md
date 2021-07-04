@@ -11,4 +11,4 @@ Le Zhang, Ryutaro Tanno, Mou-Cheng Xu, Jin Chen, Joseph Jacob, Olga Ciccarelli, 
 
 Paper: <a href="https://papers.nips.cc/paper/2020/file/b5d17ed2b502da15aa727af0d51508d6-Paper.pdf"> https://papers.nips.cc/paper/2020/file/b5d17ed2b502da15aa727af0d51508d6-Paper.pdf </a> Code: <a href="https://github.com/moucheng2017/Learn_Noisy_Labels_Medical_Images"> https://github.com/moucheng2017/Learn_Noisy_Labels_Medical_Images </a>
 
-We propose to parameterize the uncertainty as learnable confusion matrices with trace regularisation, in order to recover the ground truth from corrupted labels in segmentation.
+We propose a novel multi-task network to parameterize the uncertainty as learnable confusion matrices with trace regularisation, in order to recover the ground truth from corrupted labels in segmentation, while generating noisy segmentation simultaneously.
